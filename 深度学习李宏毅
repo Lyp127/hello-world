@@ -1,0 +1,3 @@
+Sigmiod functon 逼近一个蓝色的function
+  参数w.b.c分别调整函数的斜率、相位、和最高值
+  sigmiod function 的个数由自己决定
